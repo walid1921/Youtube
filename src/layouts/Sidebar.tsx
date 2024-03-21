@@ -32,7 +32,7 @@ export function Sidebar() {
           <LargeSidebarItem
             isActive
             Icon={HiOutlineHome}
-            title="home"
+            title="homeer"
             url="/"
           />
           <LargeSidebarItem Icon={HiOutlineHome} title="home" url="/" />
